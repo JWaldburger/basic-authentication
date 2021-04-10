@@ -66,6 +66,6 @@ return (
     </Switch>
   </HashRouter>
   );
-}:
+}
 
 export default Router
