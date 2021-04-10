@@ -44,6 +44,7 @@ const Nav = ({ current }) => {
                         Protected
                         </Link>
                     </Menu.Item>
+
                 </Menu>
         </div>
     );
