@@ -1,7 +1,7 @@
 import React from 'react';
 import Container from './Container';
 
-const morePublic = () => {
+const MorePublic = () => {
   return (
     <Container>
       <h1>
@@ -11,4 +11,15 @@ const morePublic = () => {
   );
 }
 
-export default Public;
+export default MorePublic;
+
+
+
+
+
+
+
+
+
+
+

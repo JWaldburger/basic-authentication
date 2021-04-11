@@ -45,6 +45,18 @@ const Nav = ({ current }) => {
                         </Link>
                     </Menu.Item>
 
+             <Menu.Item 
+                        key='morepublic'
+                    >
+                        <Link 
+                            to='/morepublic'
+                        >
+                        <FileProtectOutlined />
+                        More Public
+                        </Link>
+                    </Menu.Item>
+ 
+
                 </Menu>
         </div>
     );
